@@ -1,0 +1,65 @@
+@media (prefers-reduced-motion: no-preference) {
+  
+  body{
+    margin: 0rem;
+    padding: 0rem;
+}
+li{
+  list-style: none;
+  font-size: 40px;
+  color: aqua;
+  
+}
+
+#banner{
+    border: 2px solid aqua;
+    background-color: black;
+    border-radius: 5px;
+}
+nav{
+    display: flex;
+    
+}
+li:hover{
+    color: red;
+}
+
+#music{
+  border: 3px solid aqua;
+  background-color: black;
+  border-radius: 5px;
+  
+}
+
+audio{
+    border: 2px solid aqua;
+    border-radius: 100px;
+    height: 40px;
+    
+}
+form{
+    margin-left: 20px;
+}
+
+h3{
+    color: aqua;
+    margin-left: 30px;
+}
+
+  .yt{
+    margin-left: 50px;
+      text-decoration: none;
+  }
+
+  .a2{
+      text-decoration: none;
+  }
+  .mui{
+    margin-top:10px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+  }
+  .sp{
+      background-color: black;
+  }
+}
